@@ -1,0 +1,3 @@
+python-dotenv-1.0.1
+nextcord
+pillow-11.1.0
